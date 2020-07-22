@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/ctshen/catkin_ws/devel/include",
+                "/opt/ros/melodic/include",
+                "/home/ctshen/catkin_ws/src/ar_track_alvar/ar_track_alvar/include",
+                "/home/ctshen/catkin_ws/src/mavros/libmavconn/include",
+                "/home/ctshen/catkin_ws/src/mavros/mavros/include",
+                "/home/ctshen/catkin_ws/src/mavros/mavros_msgs/include",
+                "/home/ctshen/catkin_ws/src/mavros/test_mavros/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

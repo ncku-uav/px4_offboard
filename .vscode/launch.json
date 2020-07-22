@@ -1,0 +1,17 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "ros",
+            "command": "rosrun",
+            "name": "offb_global_multiple_wp_node.cpp",
+            "package": "px4_offboard",
+            "target": "",
+            "debugSettings": "debugSettings"
+        }
+        
+    ]
+}
